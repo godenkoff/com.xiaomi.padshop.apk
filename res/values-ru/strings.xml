@@ -72,7 +72,7 @@
     <string name="main_tab">Xiaomi Mal</string>
     <string name="product_detail">Подробнее</string>
     <string name="comment">评价 (%d)</string>
-    <string name="product_shopping_cart">购物车</string>
+    <string name="product_shopping_cart">Корзина</string>
     <string name="title_checkout">用户结算</string>
     <string name="title_ordersubmit">确认订单</string>
     <string name="title_edit_cartitem">修改购物车</string>
@@ -230,8 +230,8 @@
     <string name="account_after_sale_order">售后服务单</string>
     <string name="account_express_list">待收货订单</string>
     <string name="account_write_review">评价商品</string>
-    <string name="account_waiting_review">待评价商品</string>
-    <string name="account_favorite">我的收藏</string>
+    <string name="account_waiting_review">Товары, ожидающие оценки</string>
+    <string name="account_favorite">Избранное</string>
     <string name="account_mihome">小米之家</string>
     <string name="account_mihome_city_list">小米之家城市列表</string>
     <string name="account_service_station">服务网点</string>
