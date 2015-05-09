@@ -102,11 +102,11 @@
     <string name="time_m_d_h">dd/MM HH</string>
     <string name="time_y_m_d_h_m_s">dd.MM.yyyy HH:mm:ss</string>
     <string name="menu_orders">Заказы</string>
-  <string name="menu_update">Проверить обновления</string>
-  <string name="menu_setting">Настройки</string>
-  <string name="menu_switch_test">Тестирование(требуется перезапуск)</string>
-  <string name="menu_switch_formal">Стандарт(требуется перезапуск)</string>
-  <string name="switch_formal_test_hint">Изменения вступят в силу после перезапуска приложения</string>
+    <string name="menu_update">Проверить обновления</string>
+    <string name="menu_setting">Настройки</string>
+    <string name="menu_switch_test">Тестирование(требуется перезапуск)</string>
+    <string name="menu_switch_formal">Стандарт(требуется перезапуск)</string>
+    <string name="switch_formal_test_hint">Изменения вступят в силу после перезапуска приложения</string>
   <string name="menu_refresh">Обновить</string>
   <string name="menu_url">Ввести URL</string>
   <string name="tab_indicator_home">Топ</string>
