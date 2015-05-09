@@ -821,7 +821,7 @@
     <string name="recharge_value_text">应付金额：%1$s元</string>
     <string name="recharge_date_text">下单日期：%s</string>
     <string name="recharge_product_text">商品信息</string>
-    <string name="recharge_name_text">商品名称：</string>
+    <string name="recharge_name_text">Наименования：</string>
     <string name="recharge_price_text">应付金额：</string>
     <string name="recharge_wait_pay">等待付款</string>
     <string name="recharge_pay_sucess">充值成功</string>
@@ -838,7 +838,7 @@
     <string name="order_error_prompt">服务异常，请稍后重试</string>
     <string name="recharge_info_title">充值确认</string>
     <string name="recharge_no_login">充值前请先登录</string>
-    <string name="recharge_count">总计:</string>
+    <string name="recharge_count">Всего:</string>
     <string name="recharge_n1">部分状态特殊的手机号(空号、停机等)造成无法充值，将会进行退款。</string>
     <string name="recharge_n2">月初和月末运营商系统繁忙，可能会延迟到账。</string>
     <string name="recharge_n3">充值金额可能会分多次到账。</string>
@@ -1023,11 +1023,11 @@
     <string name="checkout_shipment_type">Способ доставки:</string>
     <string name="checkout_shipment_time">Время доставки:</string>
     <string name="checkout_invoicement_info">发票信息:</string>
-    <string name="checkout_list">商品清单:</string>
-    <string name="checkout_coupon">优惠:</string>
+    <string name="checkout_list">Список товаров:</string>
+    <string name="checkout_coupon">Скидка:</string>
     <string name="checkout_price_inall">Стоимость:</string>
     <string name="checkout_shipfee">Доставка:</string>
-    <string name="checkout_pay_amount">应付总额:</string>
+    <string name="checkout_pay_amount">Общая сумма:</string>
     <string name="checkout_invoice_title">单位名称:</string>
     <string name="unpay">待付款</string>
     <string name="shipment">查物流</string>
@@ -1067,7 +1067,7 @@
     <string name="setting_check_upgrade">检查更新</string>
     <string name="setting_logout">退出登录</string>
     <string name="toast_please_login">请先登录小米帐号</string>
-    <string name="accumulate_price">小计</string>
+    <string name="accumulate_price">Итого</string>
     <string name="all_categories">Все категории</string>
     <string name="results">个结果</string>
     <string name="see_more_products_of_cat">查看更多同类商品</string>
