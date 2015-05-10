@@ -140,18 +140,17 @@
   <string name="shopping_cartlist_text_center_template">Цена:%1$s元 Кол-во:%2$d Сумма:%3$s元</string>
   <string name="shopping_cartlist_text_count">数量:</string>
   <string name="shopping_cartlist_text_single_price">售价: %1$s元</string>
-    <string name="shopping_cartlist_text_bottom_template">Итого:%1$s元</string>
+  <string name="shopping_cartlist_text_bottom_template">Итого:%1$s元</string>
   <string name="shopping_button_checkout">Оформить</string>
   <string name="shopping_count_title">Общее кол-во</string>
   <string name="shopping_cartlist_is_empty">Ваша корзина пуста, перейдите к выбору товаров</string>
   <string name="shopping_cartlist_is_empty_subhead">Перейти к выбору товаров</string>
-    <string name="shopping_cartlist_is_empty_button_title">Перейти*</string>
+  <string name="shopping_cartlist_is_empty_button_title">Перейти*</string>
   <string name="shopping_supply_title">Цена покупки</string>
   <string name="shopping_cartlist_title">Список покупок</string>
   <string name="shopping_add_supply_exception">Добавить в заметки/添加加价购异常</string>
   <string name="checkout_activity_title">Счета/Заказы</string>
   <string name="shipment_desc">（%s）</string>
-  <string name="shopping_add_supply_exception">添加加价购异常</string>
   <string name="shopping_cartlist_ask_delete">您确定要删除该商品吗？</string>
   <string name="checkout_no_invoice">Неоформленные заказы/不开发票</string>
   <string name="checkout_build_request_params_exception">Получает данные о форме исключения</string>
@@ -196,7 +195,7 @@
   <string name="act_coupon">[Купон]</string>
   <string name="tips_invoice">Электронные счета-фактуры признаются действующими документами, утвержденными Департаментом внутренних доходов</string>
   <string name="more_tips">(多款)</string>
-  <string name="sale_out">Распродано</string>
+  <string name="sale_out">Продано</string>
   <string name="delete_cart_excption">Удаление из заметок/删除商品异常</string>
   <string name="order_submit_example_title_format">Просмотр пред.заказа, номер заказа:%1$s</string>
   <string name="order_submit_title">Пред.заказ</string>
@@ -414,25 +413,13 @@
   <string name="account_express_info">查物流</string>
   <string name="account_express_receiver">收货人:</string>
   <string name="account_lastst_express_info">最新物流动态</string>
-  <string name="checking_input">正在检查输入</string>
   <string name="micloud_account_not_actived">就差最后一步咯!</string>
   <string name="micloud_active_email_visit">我们已经向您的邮箱%s</string>
-  <string name="reg_success_summary">"您的小米帐户密保手机是
-%1$s
-用于登录和找回密码"</string>
-  <string name="email_reg_success_summary">"您的帐户安全邮箱是:
-%1$s
-用于登录小米帐户及找回密码"</string>
   <string name="email_already_be_used">邮箱已被注册</string>
-  <string name="reging">正在注册，请稍候…</string>
-  <string name="reg_success">注册成功</string>
   <string name="unactivated_user">未激活</string>
   <string name="micloud_active_alert_title">激活帐户</string>
   <string name="micloud_via_sms_alert">您的手机将发送一条普通短信用于激活帐户，产生的费用由运营商收取，是否继续？</string>
   <string name="show_password">显示密码</string>
-  <string name="re_register">重新注册</string>
-  <string name="skip_register">跳过注册</string>
-  <string name="find_password_on_web_msg">请访问 account.xiaomi.com 找回密码</string>
   <string name="relogin">重新登录</string>
   <string name="skip_login">跳过登录</string>
   <string name="skip_login_u"><u>跳过登录</u></string>
@@ -442,7 +429,6 @@
   <string name="get_verify_code">获取验证码</string>
   <string name="getting_verify_code">正在获取</string>
   <string name="input_phone_hint">输入手机号码</string>
-  <string name="input_verify_code_hint">输入短信验证码</string>
   <string name="please_input_phone_number">请输入手机号码</string>
   <string name="please_input_verify_code">请输入验证码</string>
   <string name="wrong_phone_number_format">手机号码格式错误</string>
@@ -458,12 +444,8 @@
   <string name="loading">读取中…</string>
   <string name="license_host_unreachable">您的手机未连接到数据服务。要立即查看此信息，请通过连接到互联网的任意计算机访问 %s。</string>
   <string name="register">注册</string>
-  <string name="micloud_password_req_notice">密码长度8－16位，数字、字母、符号至少包含两种</string>
-  <string name="micloud_error_email">邮箱格式不正确</string>
-  <string name="micloud_active_sms_sent">注册短信已经发出</string>
   <string name="reg_type_phone">用手机号码注册（推荐）</string>
   <string name="reg_type_email">用邮箱注册</string>
-  <string name="input_phone_hint">输入手机号码</string>
   <string name="micloud_input_password_prompt">Пожалуйста, установите пароль учетной записи</string>
   <string name="micloud_password_confirm_hint">Подтверждение пароля</string>
   <string name="micloud_password_req_notice">Пароль должен содержать 8-16 символов и представлять собой числа, буквы. Вы можете использовать специальные символы и буквы с учетом регистра.</string>
@@ -487,8 +469,6 @@
   <string name="reg_by_email_failure">Регистрация не удалась:%1$s</string>
   <string name="reg_failed">Регистрация не удалась</string>
   <string name="login_failed">Войти не удалось</string>
-  <string name="please_input_phone_number">请输入手机号码</string>
-  <string name="wrong_phone_number_format">手机号码格式错误</string>
   <string name="error_phone_error">无效的电话号码</string>
   <string name="error_no_sms_service">SMS сервис недоступен</string>
   <string name="error_no_sim">Вставьте SIM-карту</string>
@@ -497,53 +477,16 @@
   <string name="error_dup_phone">Номер телефона уже зарегистрирован</string>
   <string name="error_server">Ошибка сервера</string>
   <string name="error_sim_not_ready">SIM卡未就绪</string>
-  <string name="error_network">当前网络不可用</string>
-  <string name="error_dup_email">该邮箱已被注册</string>
-  <string name="error_dup_phone">该电话号码已被注册</string>
-  <string name="error_server">服务器出错</string>
   <string name="error_invalid_dev_id">无效的设备号</string>
   <string name="error_user_name">用户名不存在</string>
-  <string name="error_unknown">未知错误:%1$s</string>
-  <string name="account_name">帐户:%1$s</string>
-  <string name="input_password_hint">请输入帐户密码</string>
-  <string name="confirm">确定</string>
-  <string name="login_notice">登录中，请稍候</string>
-  <string name="login_retry">重试</string>
-  <string name="failed_to_send_activate_email">发送激活邮件失败</string>
-  <string name="access_denied">访问受限</string>
-  <string name="login_system_failed">系统帐号登录失败，请重试！</string>
-  <string name="autologin_title">使用系统帐号登录</string>
-  <string name="autologin_summary">检测到您正在使用小米帐号“%1$s”，是否使用此帐号登录小米商城？</string>
-  <string name="dialog_ask_ok">确认</string>
-  <string name="dialog_ask_cancel">取消</string>
-  <string name="autologin_ask_ok">确认使用</string>
-  <string name="autologin_ask_cancel">换个帐号</string>
+  <string name="confirm">Подтвердить*</string>
   <string name="autologin_no_login">暂不登录</string>
-  <string name="logout_title">退出帐号</string>
-  <string name="logout_summary">确定要退出该帐号吗？</string>
-  <string name="captcha">图片验证码</string>
-  <string name="input_captcha_hint">请输入图片验证码</string>
-  <string name="input_vcode_hint">请输入验证码</string>
-  <string name="micloud_error_empty_captcha_code">图片验证码不能为空</string>
-  <string name="micloud_error_empty_vcode">验证码不能为空</string>
-  <string name="wrong_captcha">图片验证码错误</string>
-  <string name="wrong_vcode">验证码错误</string>
-  <string name="error_ssl_hand_shake">与服务器连接有误，请尝试修改系统时间到当前时间</string>
-  <string name="trust_device">我信任此设备</string>
-  <string name="vcode_prompt_long">请输入小米安全令牌生成的验证码</string>
-  <string name="verify">验证</string>
-  <string name="quick_login_step2_title">小米登录保护</string>
-  <string name="checking_account">正在验证...</string>
   <string name="input_verify_code_hint">输入短信验证码</string>
-  <string name="get_verify_code">获取验证码</string>
-  <string name="re_get_verify_code">重新获取</string>
-  <string name="getting_verify_code">正在获取</string>
-  <string name="error_verify_code">验证码错误</string>
   <string name="error_timeout">Ошибка ожидания сервера</string>
   <string name="error_unknown">Неизвестная ошибка:%1$s</string>
   <string name="account_name">Аккаунт:%1$s</string>
-    <string name="input_password_hint">Введите пароль от вашего аккаунта</string>
-    <string name="confirm">Удалить*</string>
+  <string name="input_password_hint">Введите пароль от вашего аккаунта</string>
+  <string name="confirm">Удалить*</string>
   <string name="login_notice">Пожалуйста подождите...</string>
   <string name="login_retry">Повторить</string>
   <string name="failed_to_send_activate_email">Не удалось отправить письмо активации</string>
@@ -561,7 +504,7 @@
   <string name="autologin_ask_cancel">Отмена</string>
   <string name="error_loading_account_info">Не удалось загрузить данные пользователя</string>
   <string name="logout_title">Отмена</string>
-  <string name="logout_summary">Вы уверены,что хотите выйти?</string>
+  <string name="logout_summary">Выйти?</string>
   <string name="captcha">图片验证码</string>
   <string name="input_captcha_hint">请输入图片验证码</string>
   <string name="input_vcode_hint">请输入验证码</string>
@@ -577,10 +520,7 @@
   <string name="verify">验证</string>
   <string name="quick_login_step2_title">小米登录保护</string>
   <string name="checking_account">正在验证...</string>
-  <string name="input_verify_code_hint">输入短信验证码</string>
-  <string name="get_verify_code">获取验证码</string>
   <string name="re_get_verify_code">重新获取</string>
-  <string name="getting_verify_code">正在获取</string>
   <string name="error_verify_code">验证码错误</string>
   <string name="reg_sms_send_prompt">已发送一条带验证码的短信至 %s</string>
   <string name="reg_using_other_phone_number_prompt">您注册的手机号为</string>
@@ -598,10 +538,6 @@
   <string name="skip_register">跳过注册</string>
   <string name="checking_input">正在检查输入</string>
   <string name="login_instead_reg_with_email">用此邮箱登录</string>
-  <string name="get_back_pwd">找回帐户密码</string>
-  <string name="login_instead_reg">用此电话号码登录</string>
-  <string name="button_cancel">取消</string>
-  <string name="micloud_account_not_actived">就差最后一步咯!</string>
   <string name="micloud_click_email_to_valid">发送了邮件,请点击邮件中的链接完成验证</string>
   <string name="micloud_activing_account">正在激活您的帐户，请稍候...</string>
   <string name="register_account_goto_email">去邮箱</string>
@@ -609,7 +545,6 @@
   <string name="account_not_activated">您的帐户还未通过验证！</string>
   <string name="micloud_resend_active_email">重发验证邮件</string>
   <string name="register_account_verified_confirm">我已验证</string>
-  <string name="micloud_active_email_visit">我们已经向您的邮箱 %s</string>
   <string name="micloud_delete_account">退出帐号</string>
   <string name="remove_unactivated_account_notice">小米帐户还未激活，确认要退出？</string>
   <string name="remove_confirm">确认退出</string>
@@ -704,6 +639,7 @@
   <string name="filter_all">（Все）</string>
   <string name="recommend_related_label">买过此商品的用户还喜欢</string>
   <string name="recommend_package_label">以下优惠套装包含此商品</string>
+  <string name="recommend_product_label">喜欢此商品的用户还买了</string>
   <string name="recommend_label">Пользователи, которые купили этот товар</string>
   <string name="add_submit">Подтвердить/</string>
   <string name="goto_cart_btn_text">Перейти в корзину</string>
@@ -812,14 +748,8 @@
   <string name="quick_pay_prompt_2">2.</string>
   <string name="quick_pay_prompt_2_desc">您提交的银行卡信息和个人信息仅供支付校验使用，小米绝对不会保存。</string>
   <string name="quick_pay_dialog_selectinfo">查询可用支付信息...</string>
-  <string name="order_list_fee">总金额：</string>
   <string name="order_list_rmb_word">元</string>
-  <string name="order_list_status">状态：</string>
-  <string name="order_list_time">订单日期：</string>
   <string name="order_list_rmb_yuan">元</string>
-  <string name="order_list_empty">您还没有该类型的订单</string>
-  <string name="order_date_format" formatted="false">%-Y-%-m-%-d</string>
-  <string name="order_deliver_info">(拆分%s单)</string>
   <string name="order_list_time_format">yyyy-MM-dd</string>
   <string name="order_list_item_pay">Оплатить сразу</string>
   <string name="order_list_item_express">查看物流</string>
@@ -830,7 +760,6 @@
   <string name="recharge_footer_tip">"Советы: 
 Оплатите заказ в течение 30 минут после подтверждения, в противном случае заказ будет отменен."</string>
   <string name="btn_order_cancel">Отменить заказ</string>
-  <string name="order_view_pre_sale">预售订单:预计%s发货，7日内发完</string>
   <string name="order_waiting_tips">请于%s时前完成支付</string>
   <string name="order_time_format" formatted="false">%Y-%-m-%-d %-H:%-M:%-S</string>
   <string name="order_view_address_title">Данные получателя:</string>
@@ -852,7 +781,6 @@
   <string name="order_invoice_information">Информация о счете</string>
   <string name="order_invoice_type_name">发票类型：</string>
   <string name="order_invoice_download">下载</string>
-  <string name="order_invoice_title">发票抬头：</string>
   <string name="order_pickup_address">Адрес</string>
   <string name="order_pickup_tel">Телефон</string>
   <string name="order_product_center">Цена:%1$s元 Кол-во:%2$s Итого:%3$s元</string>
@@ -1004,7 +932,6 @@
   <string name="push_time_title">免打扰时间设置</string>
   <string name="push_time_info">%1$s:00 - %2$s:00</string>
   <string name="push_time_info_cross_day">%1$s:00 - 次日%2$s:00</string>
-  <string name="pref_title_category_about">关于</string>
   <string name="pref_title_version">Версия:%s</string>
   <string name="pref_title_check_version">Проверить обновление</string>
   <string name="pref_title_feedback">Обратная связь</string>
@@ -1228,7 +1155,6 @@
   <string name="recharge_now">Пополнить</string>
   <string name="phone_error_prompt">请输入正确的手机号码</string>
   <string name="order_error_prompt">服务异常，请稍后重试</string>
-  <string name="recharge_no_login">充值前请先登录</string>
   <string name="kuwan_no_login">请先登陆</string>
   <string name="clipboard">剪贴板</string>
   <string name="history">历史记录</string>
@@ -1237,6 +1163,7 @@
   <string name="carrier_mobile">移动</string>
   <string name="carrier_unicom">联通</string>
   <string name="carrier_telecom">电信</string>
+  <string name="recharge_no_login">充值前请先登录</string>
   <string name="recharge_notice">充值注意事项</string>
   <string name="recharge_info_text">确认充值信息</string>
   <string name="recharge_phone_text">充值号码：%1$s</string>
@@ -1256,10 +1183,7 @@
 5.支持全国各省市（不包括港、澳、台地区），部分地区充值成功后无短信提醒。
 6.用户可自行拨打当地运营商电话查询充值到账情况。
 7.本充值不提供话费发票，用户可以在每月使用后，到当地营业厅根据实际使用情况开具相应发票。"</string>
-  <string name="phone_error_prompt">请输入正确的手机号码</string>
-  <string name="order_error_prompt">服务异常，请稍后重试</string>
   <string name="recharge_info_title">充值确认</string>
-  <string name="recharge_no_login">充值前请先登录</string>
   <string name="recharge_count">Всего:</string>
   <string name="recharge_n1">部分状态特殊的手机号(空号、停机等)造成无法充值，将会进行退款。</string>
   <string name="recharge_n2">月初和月末运营商系统繁忙，可能会延迟到账。</string>
@@ -1271,8 +1195,6 @@
   <string name="recharge_type">充值类型:</string>
   <string name="recharge_phone">充入号码:</string>
   <string name="recharge_status">Статус заказа*：</string>
-  <string name="clipboard">剪贴板</string>
-  <string name="history">历史记录</string>
   <string name="recharge_tip">请在30分钟内支付</string>
   <string name="recharge_yuan">元</string>
   <string name="time_pattern">yyyy-MM-dd hh:mm</string>
@@ -1383,8 +1305,6 @@
   <string name="michat_return_to_mishop">返回小米商城</string>
   <string name="search_hint">Поиск по названию</string>
   <string name="search_hint1">Поиск</string>
-  <string name="results">个结果</string>
-  <string name="sale_out">缺货</string>
   <string name="sale_out_registration">到货通知</string>
   <string name="sale_out_register">暂时缺货，到货通知我</string>
   <string name="login_before_register_sale_out_product">订阅通知前，请先登录</string>
@@ -1431,7 +1351,6 @@
   <string name="comment_detail">评价详情</string>
   <string name="person">人</string>
   <string name="comment_total">用户评论（%d条）</string>
-  <string name="product_questions">产品提问</string>
   <string name="toast_comment_submit_suc">发表成功，等待管理员审核</string>
   <string name="qa_detail">提问详情</string>
   <string name="answers_of_users">其他已购用户回答</string>
@@ -1439,7 +1358,6 @@
   <string name="reply_xx">回复 %s：</string>
   <string name="reply">回复\u0009</string>
   <string name="reply_suffix">：</string>
-  <string name="params">规格参数</string>
   <string name="favorite_list_empty">У вас нет товаров в Изборанном</string>
   <string name="del_favorite">Отменить избранное</string>
   <string name="back_to_favorite_list">Вернуться</string>
@@ -1593,7 +1511,6 @@
   <string name="qa_text_default_show">我要提问：您的问题将会发给已经购买者、小米官方客服和产品经理</string>
   <string name="qa_button_text">我要提问</string>
   <string name="buy_insurance">购买服务</string>
-  <string name="shopping_cartlist_text_single_price">%1$s元</string>
   <string name="insurance_title">小米手机意外保障服务</string>
   <string name="weibo">新浪微博</string>
   <string name="share_progress_title">图片加载中...</string>
@@ -1621,7 +1538,6 @@
   <string name="filter">筛选</string>
   <string name="filter_only_discount">只显示特惠商品</string>
   <string name="filter_only_onsale">只显示有货商品</string>
-  <string name="off_shelves">已下架</string>
   <string name="usercentral_fragment_quit_btn_text">退出帐号</string>
   <string name="review_listitem_date_format" formatted="false">%Y-%m-%d</string>
   <string name="usercentral_fragment_chickensoup_default_text">欢迎来到我的小米商城</string>
@@ -1661,20 +1577,8 @@
   <string name="home_footer_feedback_text">问题反馈</string>
   <string name="home_product_ratingnums_text">%s评价</string>
   <string name="goto_feedback_web_error">对不起,找不到浏览器进入反馈页面</string>
-  <string name="place_barcode_into_rectangle1">请将取景框对准</string>
-  <string name="place_barcode_into_rectangle2">由小米商城提供的二维码或条码</string>
   <string name="barcode_into_rectangle">请把二维码放置在识别框中</string>
-  <string name="open_flash_error">无法打开闪光灯</string>
-  <string name="close_flash_error">无法关闭闪光灯</string>
   <string name="scan_fail">二维码扫描失败</string>
-  <string name="barcode_progress_title">加载中...</string>
-  <string name="toast_copy_link_already">已复制到剪贴板</string>
-  <string name="barcode_result_btn_text1">打开链接</string>
-  <string name="barcode_result_btn_text2">复制文本</string>
-  <string name="barcode_result_title_text1">网址</string>
-  <string name="barcode_result_title_text2">文本</string>
-  <string name="star5rate">五星评价率</string>
-  <string name="person">人</string>
   <string name="comment_item_up_btn_string">有用 %1$d</string>
   <string name="comment_item_down_btn_string">没用 %1$d</string>
   <string name="comment_reply_owner">Ответить 楼主：</string>
@@ -1683,11 +1587,8 @@
   <string name="from_xiaomi_com">小米网</string>
   <string name="from_app">小米商城移动版</string>
   <string name="reply_comment_edit_default_hint">回复评价</string>
-  <string name="toast_comment_submit_suc">发表成功，等待管理员审核</string>
   <string name="comment_list_item_replycount_text">Ответить (%1$d)</string>
   <string name="comment_list_item_replycontent_text">官方回复：%1$s</string>
-  <string name="recommend_product_label">喜欢此商品的用户还买了</string>
-  <string name="recommend_package_label">包含此商品的优惠套装</string>
   <string name="params">Технические хар-ки</string>
   <string name="product_questions">Вопросы о товарах</string>
   <string name="homepage_gallery_info">首页焦点图</string>
