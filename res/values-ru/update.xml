@@ -1053,10 +1053,10 @@
     <string name="order_salefee">Скидка:%s元</string>
     <string name="toast_cannot_write_comment">该商品暂不能评价</string>
     <string name="toast_already_commented">该商品暂不能评价</string>
-    <string name="star_level">评星:</string>
-    <string name="comment_label">评价:</string>
+    <string name="star_level">Рейтинг*:</string>
+    <string name="comment_label">Оценка*:</string>
     <string name="write_comment_hint">评价内容不少于5个字</string>
-    <string name="submit_form">提交</string>
+    <string name="submit_form">Отправить</string>
     <string name="warn_no_address">Вы не сохранили адрес доставки*</string>
     <string name="warn_no_comment_product">您还没有需要评价的商品</string>
     <string name="warn_no_favorite">您还没有收藏的商品</string>
