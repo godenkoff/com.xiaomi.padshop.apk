@@ -45,8 +45,8 @@
      <string name="act_post_free">[Беспл. доставка]</string>
      <string name="act_reduction">[Общ.скидка]</string>
      <string name="activity_enter_home">На главную</string>
-     <string name="adapt_for">适用于%s</string>
-     <string name="adapt_phone">Использовать на:</string>
+     <string name="adapt_for">Применим к %s</string>
+     <string name="adapt_phone">Подходит для:</string>
      <string name="add_address">Добавить</string>
      <string name="add_cart_failure">加入购物车失败</string>
      <string name="add_phone_title">填写充值号码</string>
@@ -82,10 +82,10 @@
      <string name="app_name">Mi Mall</string>
      <string name="app_name_hd">Mi Mall HD</string>
      <string name="auth_error">Авторизация истекла. Повторите еще раз.</string>
-     <string name="autologin_ask_cancel">Отмена</string>
-     <string name="autologin_ask_ok">OK</string>
-     <string name="autologin_summary">Обнаружено, что вы используете аккаунт Xiaomi“%1$s”，использовать эту учетную запись для входа в Xiaomi Mall?</string>
-     <string name="autologin_title">Использовать системный аккаунт для входа</string>
+     <string name="autologin_ask_cancel">Нет</string>
+     <string name="autologin_ask_ok">Да</string>
+     <string name="autologin_summary">Найден используемый Mi Аккаунт "%1$s"，использовать его для входа в Mi Mall?</string>
+     <string name="autologin_title">Аккаунт для входа в Mi Mall</string>
      <string name="back">Назад</string>
      <string name="back_to_detail">Назад</string>
      <string name="back_to_favorite_list">Вернуться</string>
@@ -123,7 +123,7 @@
      <string name="checkcode_dialog_title">Введите проверочный код:</string>
      <string name="checkcode_not_empty">Проверочный код не може быть пустым</string>
      <string name="checking_input">正在检查输入</string>
-     <string name="checking_update">Проверка обновления...</string>
+     <string name="checking_update">Проверка обновлений...</string>
      <string name="checkout_activity_title">Счета/Заказы</string>
      <string name="checkout_addr">Адрес доставки:</string>
      <string name="checkout_build_request_params_exception">Получает данные о форме исключения</string>
@@ -166,7 +166,7 @@
      <string name="combo_choice_product">Пользовательские части</string>
      <string name="combo_detail">Детали заказа</string>
      <string name="combo_title">定制套装单品</string>
-     <string name="comment">Оценить (%d)</string>
+     <string name="comment">Оценки и отзывы</string>
      <string name="comment_bad">Отрицательные</string>
      <string name="comment_come_from">来自：%s</string>
      <string name="comment_general">中评</string>
@@ -265,7 +265,7 @@
      <string name="fcode_verify_fcode_err">F-код неверен, введите повторно</string>
      <string name="fcode_waiting">Идет проверка подлинности...</string>
      <string name="festival_forward_message">Поделитесь скриншотом (кнопка меню + громкость вниз) с друзьями</string>
-     <string name="festival_launch_mishop">Перейти в Mi Shop</string>
+     <string name="festival_launch_mishop">Перейти в Mi Mall</string>
      <string name="filter_all">（Все）</string>
      <string name="filter_comment">关注度</string>
      <string name="filter_default">默认</string>
@@ -281,7 +281,7 @@
      <string name="getting_verify_code">正在获取</string>
      <string name="gift_sign">【赠品】</string>
      <string name="goto_cart_btn_text">Перейти в корзину</string>
-     <string name="goto_cart_title">Добавить продукт в корзину</string>
+     <string name="goto_cart_title">Добавить в корзину</string>
      <string name="goto_feedback_web_error">对不起,找不到浏览器进入反馈页面</string>
      <string name="greeting_afternoon">下午好!</string>
      <string name="greeting_evening">晚上好!</string>
@@ -552,7 +552,7 @@
      <string name="mini_switch">Переключить</string>
      <string name="mini_weakpassword_error_same">Пожалуйста, не используйте одни и те же цифры</string>
      <string name="mini_weakpassword_error_serial">Пожалуйста, не используйте последовательные числа</string>
-     <string name="miphone_none_stock">Временно нет на складе</string>
+     <string name="miphone_none_stock">Нет в наличии</string>
      <string name="miphone_reserve_time_full_tips">您选择的到店时间预约已满，请重新选择</string>
      <string name="miphone_reserve_time_rest_tips">您选择的到店时间小米之家休息，请重新选择</string>
      <string name="miphone_sales_record_detail_empty">小米网暂无以下信息的销售记录</string>
@@ -568,7 +568,7 @@
      <string name="miphone_sales_record_input_uniq">请输入S/N或MEID</string>
      <string name="miphone_sales_record_phone_info">手机信息</string>
      <string name="miphone_sales_record_query_title">手机销售记录查询</string>
-     <string name="miphone_sales_record_submit">查询</string>
+     <string name="miphone_sales_record_submit">Справка</string>
      <string name="miphone_sales_record_text">IMEI在电话拨号界面输入*#06#查看，S/N可在手机电池仓里或外包装盒上查看，MEID只有电信版才有，可在电池仓里查看。</string>
      <string name="miphone_sales_record_vcode">请输入验证码</string>
      <string name="msg_camera_framework_bug">抱歉，Android相机出现问题。您可能需要重启设备。</string>
@@ -729,7 +729,7 @@
      <string name="order_view_status">Статус :</string>
      <string name="order_view_status_track">%1$s %2$s</string>
      <string name="order_waiting_tips">请于%s时前完成支付</string>
-     <string name="params">Технические хар-ки</string>
+     <string name="params">Характеристики</string>
      <string name="password">Пароль</string>
      <string name="password_hint_text">от 6 до 16 символов</string>
      <string name="pay_alipay">AliPay</string>
@@ -773,7 +773,7 @@
      <string name="product_info">Информация о товаре</string>
      <string name="product_name">商品名称</string>
      <string name="product_param_question">规格参数及提问</string>
-     <string name="product_questions">Вопросы о товарах</string>
+     <string name="product_questions">Вопросы о продукте</string>
      <string name="product_share">分享</string>
      <string name="product_shopping_cart">Корзина</string>
      <string name="product_web_id">产品编号：%s</string>
@@ -970,12 +970,12 @@
      <string name="shake_try_again">Попробуйте еще раз （%1$s）</string>
      <string name="share_progress_title">图片加载中...</string>
      <string name="share_to_weibo_failed">分享微博失败！</string>
-     <string name="shipment">查物流</string>
+     <string name="shipment">Доставка</string>
      <string name="shopping_act">Ваша скидка</string>
      <string name="shopping_add_supply_exception">Добавить в заметки/添加加价购异常</string>
      <string name="shopping_button_checkout">Оформить</string>
      <string name="shopping_cartlist_is_empty">Ваша корзина пуста, перейдите к выбору товаров</string>
-     <string name="shopping_cartlist_is_empty_button_title">Перейти*</string>
+     <string name="shopping_cartlist_is_empty_button_title">Перейти</string>
      <string name="shopping_cartlist_is_empty_subhead">Перейти к выбору товаров</string>
      <string name="shopping_cartlist_text_bottom_template">Итого:%1$s元</string>
      <string name="shopping_cartlist_text_center_template">Цена:%1$s元 Кол-во:%2$d Сумма:%3$s元</string>
