@@ -131,7 +131,7 @@
      <string name="checkout_button_change_address">Изменить адрес</string>
      <string name="checkout_coupon">Скидка:</string>
      <string name="checkout_form_address_empty">Выберите адрес доставки</string>
-     <string name="checkout_form_address_titie">Получение информации:</string>
+     <string name="checkout_form_address_titie">Адрес доставки:</string>
      <string name="checkout_form_delivertime_titie">Время доставки</string>
      <string name="checkout_form_hint">Советы</string>
      <string name="checkout_form_invoice_edit_title">Название</string>
@@ -140,7 +140,7 @@
      <string name="checkout_form_payment_titie">Оплата</string>
      <string name="checkout_form_shipment_titie">Доставка</string>
      <string name="checkout_invoice_title">单位名称:</string>
-     <string name="checkout_invoicement_info">发票信息:</string>
+     <string name="checkout_invoicement_info">Стоимость заказа*:</string>
      <string name="checkout_list">Список товаров:</string>
      <string name="checkout_next">Далее</string>
      <string name="checkout_no_invoice">Неоформленные заказы/不开发票</string>
@@ -592,7 +592,7 @@
      <string name="msp_xlistview_header_last_time">Последнее обновление：</string>
      <string name="my_location">Мой город</string>
      <string name="nav_to_here">Сюда</string>
-     <string name="network_unavaliable">Не удалось подключиться к сети. Проверьте настройки сети*.</string>
+     <string name="network_unavaliable">Нет подключения к интернету. Проверьте настройки сетевых соединений.</string>
      <string name="new_year_eve_message">Я желаю вам всем очень много Счастья каждый день!</string>
      <string name="new_year_eve_title">Эй, новогодний кролик Mi!</string>
      <string name="new_year_message">Желаю счастья, успеха и всего наилучшего в новом году :)</string>
@@ -649,10 +649,10 @@
      <string name="order_express_list_sn_label">Экспресс заказ* %s</string>
      <string name="order_express_name_label">Логистика:</string>
      <string name="order_express_name_label1">Транспортная компания %s</string>
-     <string name="order_express_sn_label">Трек-номер*</string>
+     <string name="order_express_sn_label">Трек-номер</string>
      <string name="order_express_title">Доставка</string>
      <string name="order_fee">Общая сумма:</string>
-     <string name="order_fee_subtotal_text">Сумма：%1$s元 Скидка:%2$s元 Доставка*:%3$s元</string>
+     <string name="order_fee_subtotal_text">Сумма заказа: %1$s元  Скидки: %2$s元  Доставка: %3$s元</string>
      <string name="order_id">Номер заказа:</string>
      <string name="order_information">Информация о заказе</string>
      <string name="order_invoice_info">Информация о заказе:</string>
@@ -660,13 +660,13 @@
      <string name="order_invoice_title">Тип счета*:</string>
      <string name="order_list_empty">У Вас нет заказов этого типа</string>
      <string name="order_list_express_empty">您还没有在途的商品</string>
-     <string name="order_list_fee">Сумма:</string>
+     <string name="order_list_fee">Сумма*:</string>
      <string name="order_list_id">Номер:</string>
      <string name="order_list_item_express">查看物流</string>
      <string name="order_list_item_pay">Оплатить сразу</string>
      <string name="order_list_rmb">元</string>
      <string name="order_list_status">Статус:</string>
-     <string name="order_list_time">Дата заказа*:</string>
+     <string name="order_list_time">Дата заказа:</string>
      <string name="order_list_time_format">yyyy-MM-dd</string>
      <string name="order_list_title">Список заказов</string>
      <string name="order_modify">Изменить</string>
@@ -677,9 +677,9 @@
      <string name="order_payment_tip">请在48小时之内完成支付，逾期该订单将被系统做超时关闭处理</string>
      <string name="order_pickup_address">Адрес</string>
      <string name="order_pickup_tel">Телефон</string>
-     <string name="order_price_inall">Сумма:%s元</string>
+     <string name="order_price_inall">Сумма**:%s元</string>
      <string name="order_product_bottom">Итого*:%1$s元</string>
-     <string name="order_product_center">Цена:%1$s元 Кол-во:%2$s Итого:%3$s元</string>
+     <string name="order_product_center">Цена: %1$s元 Кол-во: %2$s Итого: %3$s元</string>
      <string name="order_product_count">Кол-во*:%s</string>
      <string name="order_product_single_price">Цена*:%s元</string>
      <string name="order_product_total_price">Итого:%s元</string>
@@ -720,7 +720,7 @@
      <string name="order_view_address_time">%1$s</string>
      <string name="order_view_address_time_label">Время получения</string>
      <string name="order_view_address_title">Данные получателя:</string>
-     <string name="order_view_fee">Сумма :</string>
+     <string name="order_view_fee">Сумма:</string>
      <string name="order_view_fee_2line">"Сумма : 
 %s元"</string>
      <string name="order_view_id">Номер заказа</string>
@@ -930,7 +930,7 @@
      <string name="separator">|</string>
      <string name="service_grade">服务态度</string>
      <string name="service_repair_info">Подробности о ремонте</string>
-     <string name="service_unavailiable">Подключение истекло. Повторите попытку позже.</string>
+     <string name="service_unavailiable">Не удалось подключиться к серверу. Повторите попытку позже.</string>
      <string name="setting_check_upgrade">检查更新</string>
      <string name="setting_feedback">问题反馈</string>
      <string name="setting_logout">退出登录</string>
