@@ -535,7 +535,7 @@
      <string name="mini_page_msg_title">Заполните реквизиты карты</string>
      <string name="mini_page_name">ФИО</string>
      <string name="mini_page_next">Далее</string>
-     <string name="mini_password">Пароль</string>
+     <string name="mini_password">Пароль*</string>
      <string name="mini_password_hint">Введите пароль</string>
      <string name="mini_phone_no">Номер моб.телефона</string>
      <string name="mini_phone_no_hint">Запасной номер телефона для банка</string>
@@ -730,7 +730,7 @@
      <string name="order_view_status_track">%1$s %2$s</string>
      <string name="order_waiting_tips">请于%s时前完成支付</string>
      <string name="params">Характеристики</string>
-     <string name="password">Пароль</string>
+     <string name="password">Пароль**</string>
      <string name="password_hint_text">от 6 до 16 символов</string>
      <string name="pay_alipay">AliPay</string>
      <string name="pay_uppay">UnionPay</string>
