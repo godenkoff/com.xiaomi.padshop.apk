@@ -1198,7 +1198,7 @@
   <string name="reg_using_other_phone_number_prompt">您注册的手机号为</string>
   <string name="reg_via_sms_alert">激活帐号会发送一条普通短信，资费由运营商收取</string>
   <string name="reging">正在注册，请稍候…</string>
-  <string name="register">注册</string>
+  <string name="register">Регистрация</string>
   <string name="register_account_goto_email">去邮箱</string>
   <string name="register_account_verified_confirm">我已验证</string>
   <string name="relativetime_in_hour_min">%1$s小时%2$s分钟以内</string>
@@ -1568,7 +1568,7 @@
   <string name="write_review_rating_text">星评</string>
   <string name="write_review_tag_text">标签</string>
   <string name="wrong_captcha">图片验证码错误</string>
-  <string name="wrong_phone_number_format">手机号码格式错误</string>
+  <string name="wrong_phone_number_format">Неправильный формат номера</string>
   <string name="wrong_vcode">验证码错误</string>
   <string name="wx">Блоги</string>
   <string name="wx_share_invite_friend_title">邀请好友一起拼单</string>
