@@ -104,7 +104,7 @@
   <string name="update_log">Журнал обновлений</string>
   <string name="cancel_update">Отмена</string>
   <string name="update_for_PrepaidRecharge">Обновитесь до новой версии, чтобы включить эту функцию</string>
-    <string name="currency_unit_template">Итого %1$s元</string>
+  <string name="currency_unit_template">Итого %1$s元</string>
   <string name="button_delete">Удалить</string>
   <string name="sale_x_yuan">特惠%1$s元</string>
   <string name="time_y_m_d_h_m">dd-MM-yyyy HH:mm</string>
@@ -172,8 +172,7 @@
   <string name="checkout_form_invoice_titie2">发票抬头</string>
   <string name="checkout_form_invoice_type_name">发票类型：%s</string>
   <string name="checkout_form_invoice_type2">发票抬头：%s</string>
-  <string name="elec_invoice_tips">"电子发票税务局认可的有效凭证，可作为售后维权凭据。
-开票后不可换取纸质发票，如需报销请选择普通发票。"</string>
+  <string name="elec_invoice_tips">"电子发票税务局认可的有效凭证，可作为售后维权凭据。开票后不可换取纸质发票，如需报销请选择普通发票。"</string>
   <string name="elec_invoice_tips2">了解更多 ></string>
   <string name="checkout_form_invoice_edit_title">Название</string>
   <string name="checkout_form_address_empty">Выберите адрес доставки</string>
@@ -182,7 +181,7 @@
   <string name="login_before_op_shopping_cart">Авторизуйтесь, чтобы добавить товары в корзину</string>
   <string name="cartitem_title_bargin_template">[Стоимость покупки]%1$s</string>
   <string name="incast_product">Выбрать товар</string>
-    <string name="incast_balance_template">%1$s元 до бесплатной доставки</string>
+  <string name="incast_balance_template">%1$s元 до бесплатной доставки</string>
   <string name="incast_invite_friend_buy_template">还需%1$s元免运费，邀请好友一起拼单</string>
   <string name="incast_invite_friend_buy_wx_share_template">还差%1$s元就包邮了，快来和我一起拼单吧！</string>
   <string name="incast_invite_friend_buy_copy_share_template">还差%1$s元就包邮了，快来和我一起拼单吧！购买地址：%2$s</string>
@@ -203,12 +202,12 @@
   <string name="order_submit_shipment_title">Стоимость доставки</string>
   <string name="order_submit_amount_title">К оплате</string>
   <string name="order_submit_button_return">Вернуться и изменить</string>
-    <string name="order_submit_button_submit">Готово*</string>
+  <string name="order_submit_button_submit">Готово*</string>
   <string name="order_submit_button_submit_n">Подтверждение...</string>
   <string name="order_submit_exception_send_data">Не удалось отправить данные</string>
   <string name="order_submit_exception_return_result">Ошибка данных</string>
   <string name="order_submit_exception_make_order_template">Заказ создан, номер заказа :%1$s</string>
-    <string name="order_submit_count_descrption_template">Цена %1$s元 + Доставка %2$s元 - Купон %3$s元</string>
+  <string name="order_submit_count_descrption_template">Цена %1$s元 + Доставка %2$s元 - Купон %3$s元</string>
   <string name="checkcode_not_empty">Проверочный код не може быть пустым</string>
   <string name="checkcode_dialog_title">Введите проверочный код:</string>
   <string name="order_submit_product_money">Стоимость</string>
@@ -278,7 +277,7 @@
   <string name="account_deliver_list">查物流</string>
   <string name="account_write_review">Отзывы о продукции</string>
   <string name="account_waiting_review">Продукция, ожидающая оценки</string>
-    <string name="account_favorite">В избранное</string>
+  <string name="account_favorite">В избранное</string>
   <string name="account_paid_service">手机意外保</string>
   <string name="account_xiaomi_gold">米币</string>
   <string name="account_nearby">求助身边米粉</string>
@@ -432,8 +431,7 @@
   <string name="please_input_phone_number">请输入手机号码</string>
   <string name="please_input_verify_code">请输入验证码</string>
   <string name="wrong_phone_number_format">手机号码格式错误</string>
-  <string name="user_agreement_p1">"登录帐户即表示您同意遵守
-小米帐户的"</string>
+  <string name="user_agreement_p1">"登录帐户即表示您同意遵守小米帐户的"</string>
   <string name="user_agreement_p2">用户协议</string>
   <string name="user_agreement_p3">和</string>
   <string name="user_agreement_p4">隐私条款</string>
@@ -461,7 +459,7 @@
   <string name="micloud_active_sms_status_fail">Регистрация не удалась</string>
   <string name="micloud_active_sms_status_network">Ошибка сетевого соединения</string>
   <string name="micloud_active_sms_status_success">Регистрация прошла успешно</string>
-    <string name="completed">Готово</string>
+  <string name="completed">Готово</string>
   <string name="title_login">Войти в Mi Аккаунт</string>
   <string name="title_reg">Регистрация Mi Аккаунта</string>
   <string name="title_activate">Пожалуйста, активируете свой аккаунт Xiaomi</string>
@@ -527,12 +525,8 @@
   <string name="reg_via_sms_alert">激活帐号会发送一条普通短信，资费由运营商收取</string>
   <string name="reging">正在注册，请稍候…</string>
   <string name="reg_success">注册成功</string>
-  <string name="reg_success_summary">"您的小米帐户密保手机是
-%1$s
-用于登录和找回密码"</string>
-  <string name="email_reg_success_summary">"您的帐户安全邮箱是:
-%1$s
-用于登录小米帐户及找回密码"</string>
+  <string name="reg_success_summary">"您的小米帐户密保手机是 %1$s用于登录和找回密码"</string>
+  <string name="email_reg_success_summary">"您的帐户安全邮箱是: %1$s用于登录小米帐户及找回密码"</string>
   <string name="find_password_on_web_msg">请访问 account.xiaomi.com 找回密码</string>
   <string name="re_register">重新注册</string>
   <string name="skip_register">跳过注册</string>
@@ -563,18 +557,18 @@
   <string name="address_title">%1$s %2$s</string>
   <string name="address_area">%1$s %2$s %3$s</string>
   <string name="address_location">%1$s (%2$s)</string>
-    <string name="tips_address_consignee">Введите имя получателя</string>
-    <string name="tips_address_consignee_less">Имя получателя (не менее двух слов)</string>
+  <string name="tips_address_consignee">Введите имя получателя</string>
+  <string name="tips_address_consignee_less">Имя получателя (не менее двух слов)</string>
   <string name="tips_address_province">Выберите провинцию</string>
   <string name="tips_address_city">Выберите город</string>
   <string name="tips_address_district">Выберите регион</string>
   <string name="tips_address_area">请选择配送范围</string>
   <string name="tips_address_location">Введите улицу</string>
-    <string name="tips_address_location_less">Улица (не менее 5 символов)</string>
+  <string name="tips_address_location_less">Улица (не менее 5 символов)</string>
   <string name="tips_address_zipcode">Введите почтовый индекс</string>
   <string name="tips_address_zipcode_length">Введите действительный индекс</string>
   <string name="tips_address_tel">Введите номер телефона</string>
-    <string name="tips_address_tel_length">Введите 11-значный номер вашего мобильного телефона</string>
+  <string name="tips_address_tel_length">Введите 11-значный номер вашего мобильного телефона</string>
   <string name="address_province_select">Выберите провинцию</string>
   <string name="address_city_select">Выберите город</string>
   <string name="address_district_select">Выберите регион</string>
@@ -608,8 +602,8 @@
   <string name="btn_immediately_buy">Купить</string>
   <string name="btn_fcode_buy">F-код</string>
   <string name="replace">Заменить это</string>
-    <string name="add_shopping_cart">В корзину*</string>
-    <string name="doing_add_shopping_cart">Добавляем...</string>
+  <string name="add_shopping_cart">В корзину*</string>
+  <string name="doing_add_shopping_cart">Добавляем...</string>
   <string name="combo_choice_product">Пользовательские части</string>
   <string name="none_stock">Временно нет на складе</string>
   <string name="adapt_phone">Использовать на:</string>
@@ -706,10 +700,8 @@
   <string name="login_before_order_list">Перед заказом пожалуйста войдите в систему</string>
   <string name="order_deliver_info">(Разделить %s на еденицы)</string>
   <string name="payment_order_fee">订单金额：</string>
-  <string name="payment_order_shipment_format">"配送信息：%1$s
-%2$s　%3$s"</string>
-  <string name="payment_order_shipment_format1">"%1$s
-%2$s　%3$s"</string>
+  <string name="payment_order_shipment_format">"配送信息：%1$s　%2$s　%3$s"</string>
+  <string name="payment_order_shipment_format1">"%1$s　%2$s　%3$s"</string>
   <string name="payment_order_pickup_format">自提信息：%1$s / %2$s / %3$s / %4$s</string>
   <string name="payment_order_pickup_format1">%1$s / %2$s / %3$s / %4$s</string>
   <string name="quick_pay_title">快捷支付</string>
@@ -757,8 +749,7 @@
   <string name="recharge_sell_price">Сумма:%s元</string>
   <string name="recharge_status_info">Статус:%s</string>
   <string name="recharge_number_title">Номер:%s</string>
-  <string name="recharge_footer_tip">"Советы: 
-Оплатите заказ в течение 30 минут после подтверждения, в противном случае заказ будет отменен."</string>
+  <string name="recharge_footer_tip">"Советы: Оплатите заказ в течение 30 минут после подтверждения, в противном случае заказ будет отменен."</string>
   <string name="btn_order_cancel">Отменить заказ</string>
   <string name="order_waiting_tips">请于%s时前完成支付</string>
   <string name="order_time_format" formatted="false">%Y-%-m-%-d %-H:%-M:%-S</string>
@@ -769,11 +760,9 @@
   <string name="order_view_pre_sale">预售订单：预计%s发货，7日内发完</string>
   <string name="order_view_fee">Сумма :</string>
   <string name="order_recharge_fee_yuan">%s元</string>
-  <string name="order_view_fee_2line">"Сумма : 
-%s元"</string>
+  <string name="order_view_fee_2line">"Сумма : %s元"</string>
   <string name="order_view_address_label">Адрес доставки</string>
-  <string name="order_view_address">"%1$s %2$s %3$s %4$s
-%5$s %6$s"</string>
+  <string name="order_view_address">"%1$s %2$s %3$s %4$s %5$s %6$s"</string>
   <string name="order_view_address_time_label">Время получения</string>
   <string name="order_view_address_time">%1$s</string>
   <string name="order_view_status_track">%1$s %2$s</string>
@@ -856,12 +845,9 @@
   <string name="fcode_verify_fcode_err">F-код неверен, введите повторно</string>
   <string name="fcode_vcode_err">Проверочный код введен неверно, введите повторно</string>
   <string name="fcode_vcode_fetch_err">Получить код не удалось, повторите попытку позже</string>
-  <string name="fcode_text">"У кого может быть F-код?
-Мы выдаем F-код для опытных пользователей форума：
-1.Модераторам MIUI форума, консультантам, участникам группы ресурсы и пр.
-2.Группам на английском форуме MIUI тестерам, разработчикам и т.д."</string>
+  <string name="fcode_text">"У кого может быть F-код?Мы выдаем F-код для опытных пользователей форума：1.Модераторам MIUI форума, консультантам, участникам группы ресурсы и пр.2.Группам на английском форуме MIUI тестерам, разработчикам и т.д."</string>
   <string name="fcode_select_err">Ошибка</string>
-  <string name="coupon_expired_template">Период использования купона%1$s %2$s</string>
+  <string name="coupon_expired_template">Период использования купона %1$s %2$s</string>
   <string name="coupon_used">Использован</string>
   <string name="coupon_expired">Просрочен</string>
   <string name="coupon_expired_template_picker">Купон истекает %1$s</string>
@@ -911,8 +897,7 @@
   <string name="shake_share">\u0009\u0009将此页面截屏（小米手机为菜单键＋音量下键）， 发送新浪微博带有＃小米商城APP＃话题，并@小米公司和一位好友，有机会赢大奖。</string>
   <string name="shake_add_success">加入购物车成功，您可以查看您的购物车</string>
   <string name="shake_add_failed">加入购物车失败，请稍后重试</string>
-  <string name="shake_my_empty">"暂时没有摇中奖品
-您参与过%1$s次，不如%2$s人勤奋，再接再厉。"</string>
+  <string name="shake_my_empty">"暂时没有摇中奖品您参与过%1$s次，不如%2$s人勤奋，再接再厉。"</string>
   <string name="shake_no_login">摇一摇前，请先登录</string>
   <string name="shake_cup_user">用户ID（论坛昵称）</string>
   <string name="shake_cup_item">奖品</string>
@@ -1093,20 +1078,20 @@
   <string name="order_edit_receive_address">%1$s %2$s %3$s %4$s</string>
   <string name="order_edit_tel_error">Номер телефона указан не верно</string>
   <string name="order_edit_tel_not_null">Номер телефона не может быть пустым</string>
-    <string name="order_edit_ok">Изменён</string>
-    <string name="order_edit_prompt">* Чтобы обеспечить безопасность покупок, мы должны проверить номер телефона для заказов</string>
-    <string name="order_edit_list_title">Выбрать заказ</string>
-    <string name="order_edit_type_title">Изменить информацию о заказе</string>
-    <string name="order_edit_deliver_time_title">Изменить время доставки</string>
-    <string name="order_send_message_submit">Отправить код подтверждения</string>
-    <string name="order_retransmission_submit">Отправить еще раз через %s сек*.</string>
-    <string name="order_edit_secure_title">Проверка безопасности</string>
-    <string name="order_submit">Купить</string>
-    <string name="order_erification_code">Введите проверочный СМС-код</string>
-    <string name="order_code_sent">Код отправлен</string>
-    <string name="order_code_sent_error">Не удалось отправить код</string>
-    <string name="order_edit_prompt_message">Проверочный СМС-код будет выслан на:%s</string>
-    <string name="order_edit_code_not_null">Код не может быть пустым</string>
+  <string name="order_edit_ok">Изменён</string>
+  <string name="order_edit_prompt">* Чтобы обеспечить безопасность покупок, мы должны проверить номер телефона для заказов</string>
+  <string name="order_edit_list_title">Выбрать заказ</string>
+  <string name="order_edit_type_title">Изменить информацию о заказе</string>
+  <string name="order_edit_deliver_time_title">Изменить время доставки</string>
+  <string name="order_send_message_submit">Отправить код подтверждения</string>
+  <string name="order_retransmission_submit">Отправить еще раз через %s сек*.</string>
+  <string name="order_edit_secure_title">Проверка безопасности</string>
+  <string name="order_submit">Купить</string>
+  <string name="order_erification_code">Введите проверочный СМС-код</string>
+  <string name="order_code_sent">Код отправлен</string>
+  <string name="order_code_sent_error">Не удалось отправить код</string>
+  <string name="order_edit_prompt_message">Проверочный СМС-код будет выслан на:%s</string>
+  <string name="order_edit_code_not_null">Код не может быть пустым</string>
   <string name="button_ok">OK</string>
   <string name="msg_camera_framework_bug">抱歉，Android相机出现问题。您可能需要重启设备。</string>
   <string name="msg_default_status">请将条码置于取景框内扫描。</string>
@@ -1176,13 +1161,7 @@
   <string name="recharge_pay_sucess">充值成功</string>
   <string name="recharge_pay_btn">信息无误，去支付</string>
   <string name="recharge_prompt_lable">温馨提示</string>
-  <string name="recharge_prompt">"1.部分状态特殊的手机号(空号、停机等)造成无法充值，将会进行退款。
-2.月初和月末运营商系统繁忙，可能会延迟到账。
-3.充值金额可能会分多次到账。
-4.本充值不参加当地运营商活动。
-5.支持全国各省市（不包括港、澳、台地区），部分地区充值成功后无短信提醒。
-6.用户可自行拨打当地运营商电话查询充值到账情况。
-7.本充值不提供话费发票，用户可以在每月使用后，到当地营业厅根据实际使用情况开具相应发票。"</string>
+  <string name="recharge_prompt">"1.部分状态特殊的手机号(空号、停机等)造成无法充值，将会进行退款。2.月初和月末运营商系统繁忙，可能会延迟到账。3.充值金额可能会分多次到账。4.本充值不参加当地运营商活动。5.支持全国各省市（不包括港、澳、台地区），部分地区充值成功后无短信提醒。6.用户可自行拨打当地运营商电话查询充值到账情况。7.本充值不提供话费发票，用户可以在每月使用后，到当地营业厅根据实际使用情况开具相应发票。"</string>
   <string name="recharge_info_title">充值确认</string>
   <string name="recharge_count">Всего:</string>
   <string name="recharge_n1">部分状态特殊的手机号(空号、停机等)造成无法充值，将会进行退款。</string>
