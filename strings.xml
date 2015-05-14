@@ -21,7 +21,7 @@
   <string name="account_express_list">В пути</string>
   <string name="account_express_receiver">Адресат:</string>
   <string name="account_favorite">Избранное</string>
-  <string name="account_hint_text">E-mail/№ телефона/ID Mi Аккаунта</string>
+  <string name="account_hint_text">E-mail/ № телефона/ ID Mi Аккаунта</string>
   <string name="account_lastst_express_info">Последние события</string>
   <string name="account_login_primary_text">Войти сейчас</string>
   <string name="account_login_second_text">Наслаждаться услугами</string>
@@ -279,7 +279,7 @@
   <string name="completed">Готово</string>
   <string name="confimr_add_cart">确认加入</string>
   <string name="confirm">Подтвердить*</string>
-  <string name="confirm">Удалить*</string>
+  <string name="confirm">Выйти</string>
   <string name="confirm_title">Подсказки</string>
   <string name="conversation_edit_title_middle">已选择%s项</string>
   <string name="copy_link">Ссылка</string>
@@ -859,7 +859,7 @@
   <string name="order_canceling">Отмена заказа...</string>
   <string name="order_code_sent">Код отправлен</string>
   <string name="order_code_sent_error">Не удалось отправить код</string>
-  <string name="order_consignee">Получатель*:%s</string>
+  <string name="order_consignee">Получатель:%s</string>
   <string name="order_date_format" formatted="false">%-d-%-m-%-Y</string>
   <string name="order_date_format">%-d-%-m-%-Y</string>
   <string name="order_deliver_id">Номер счета-фактуры：%s</string>
@@ -898,7 +898,7 @@
   <string name="order_express_sn_label">Трек: %s</string>
   <string name="order_express_name_label">Логистика:</string>
   <string name="order_express_name_label1">Транспортная компания %s</string>
-  <string name="order_express_sn_label">Трек-номер*</string>
+  <string name="order_express_sn_label">Трек-номер</string>
   <string name="order_express_title">Доставка</string>
   <string name="order_fee">Общая сумма:</string>
   <string name="order_fee_subtotal_text">Сумма заказа: %1$s元  Скидки: %2$s元  Стоимость доставки: %3$s元</string>
@@ -933,8 +933,8 @@
   <string name="order_price_inall">Сумма:%s元</string>
   <string name="order_product_bottom">Итого*:%1$s元</string>
   <string name="order_product_center">Цена: %1$s元 Кол-во: %2$s Сумма: %3$s元</string>
-  <string name="order_product_count">Кол-во*:%s</string>
-  <string name="order_product_single_price">Цена*:%s元</string>
+  <string name="order_product_count">Кол-во:%s</string>
+  <string name="order_product_single_price">Цена:%s元</string>
   <string name="order_product_total_price">Итого:%s元</string>
   <string name="order_pyament_type">Способ оплаты</string>
   <string name="order_recharge_fee_yuan">%s元</string>
@@ -944,7 +944,7 @@
   <string name="order_salefee">Скидка:%s元</string>
   <string name="order_see_express">Информация о доставке</string>
   <string name="order_send_message_submit">Отправить код подтверждения</string>
-  <string name="order_shipfee">Доставка:%s元</string>
+  <string name="order_shipfee">Стоимость доставки:%s元</string>
   <string name="order_status_alread_finish">Получить квитанцию</string>
   <string name="order_submit">Купить</string>
   <string name="order_submit_activity_discount">Скидка</string>
@@ -1049,7 +1049,7 @@
   <string name="pref_title_category_about">О приложении</string>
   <string name="pref_title_category_push">Обновление</string>
   <string name="pref_title_check_version">Проверить обновления</string>
-  <string name="pref_title_enable_push">Получать уведомления</string>
+  <string name="pref_title_enable_push">Уведомления</string>
   <string name="pref_title_enable_push_time">Не беспокоить</string>
   <string name="pref_title_feedback">Обратная связь</string>
   <string name="pref_title_kefu">Горячая линия:%s</string>
@@ -1324,12 +1324,12 @@
   <string name="service_station_title">授权服务网点</string>
   <string name="service_unavailiable">Не удалось подключиться к серверу. Повторите попытку позже.</string>
   <string name="services">Опции</string>
-  <string name="setting_check_upgrade">检查更新</string>
-  <string name="setting_feedback">问题反馈</string>
-  <string name="setting_logout">退出登录</string>
-  <string name="setting_push">消息推送</string>
-  <string name="setting_push_hint">21:00至8:00将不会给你推送消息</string>
-  <string name="setting_version">当前版本</string>
+  <string name="setting_check_upgrade">Проверка обновлений</string>
+  <string name="setting_feedback">Поддержка</string>
+  <string name="setting_logout">Выход из аккаунта</string>
+  <string name="setting_push">Уведомления</string>
+  <string name="setting_push_hint">Не получать уведомления с 21:00 - 8:00</string>
+  <string name="setting_version">Версия приложения</string>
   <string name="shake_add_failed">加入购物车失败，请稍后重试</string>
   <string name="shake_add_success">加入购物车成功，您可以查看您的购物车</string>
   <string name="shake_add_to_cart">将奖品加入购物车</string>
@@ -1385,7 +1385,7 @@
   <string name="shopping_incast">凑单</string>
   <string name="shopping_invite">Пригласить друзей</string>
   <string name="shopping_supply_title">Сопутствующие товары</string>
-  <string name="show_password">显示密码</string>
+  <string name="show_password">Показать пароль</string>
   <string name="similar_products">Аналогичные товары</string>
   <string name="site_use_name">请输入用户姓名</string>
   <string name="site_use_sex">请选择性别</string>
@@ -1416,7 +1416,7 @@
   <string name="time_m_d_h">dd/MM HH</string>
   <string name="time_pattern">yyyy-MM-dd hh:mm</string>
   <string name="time_y_m_d_h_m">dd-MM-yyyy HH:mm</string>
-  <string name="time_y_m_d_h_m_s">dd.MM.yyyy HH:mm:ss</string>
+  <string name="time_y_m_d_h_m_s">dd-MM-yyyy HH:mm:ss</string>
   <string name="tips_address_area">请选择配送范围</string>
   <string name="tips_address_city">Выберите город</string>
   <string name="tips_address_consignee">Введите имя получателя</string>
