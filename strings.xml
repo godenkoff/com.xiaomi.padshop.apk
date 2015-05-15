@@ -286,7 +286,7 @@
   <string name="coupon_btn">Добавить*</string>
   <string name="coupon_choose_text">Выбрать купоны</string>
   <string name="coupon_expired">Просрочен</string>
-  <string name="coupon_expired_template">Период использования купона%1$s %2$s</string>
+  <string name="coupon_expired_template">Период действия купона %1$s %2$s</string>
   <string name="coupon_expired_template_picker">Купон истекает %1$s</string>
   <string name="coupon_free_shipping">包邮</string>
   <string name="coupon_header_title">不使用优惠券</string>
@@ -896,7 +896,6 @@
   <string name="order_express_info">Доставка：</string>
   <string name="order_express_list_empty">У вас нет заказов в пути</string>
   <string name="order_express_list_sn_label">Экспресс-доставка %s</string>
-  <string name="order_express_sn_label">Трек：%s</string>
   <string name="order_express_name_label">Доставка：</string>
   <string name="order_express_name_label1">Компания：%s</string>
   <string name="order_express_sn_label">Трек：</string>
