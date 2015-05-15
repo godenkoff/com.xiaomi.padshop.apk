@@ -1374,7 +1374,7 @@
   <string name="shopping_button_checkout">Заказать</string>
   <string name="shopping_cartlist_ask_delete">Вы действительно хотите удалить этот пункт?</string>
   <string name="shopping_cartlist_is_empty">Ваша корзина пуста, перейдите к выбору товаров</string>
-  <string name="shopping_cartlist_is_empty_button_title">Перейти</string>
+  <string name="shopping_cartlist_is_empty_button_title">В магазин</string>
   <string name="shopping_cartlist_is_empty_subhead">Перейти к выбору товаров</string>
   <string name="shopping_cartlist_text_bottom_template">Сумма：%1$s元</string>
   <string name="shopping_cartlist_text_center_template">Цена：%1$s元 Кол-во：%2$d Сумма：%3$s元</string>
