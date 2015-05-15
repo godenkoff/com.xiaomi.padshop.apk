@@ -116,7 +116,7 @@
   <string name="address_title">%1$s %2$s</string>
   <string name="address_use">Использовать</string>
   <string name="agree">Согласен</string>
-  <string name="all_categories">Все категории</string>
+  <string name="all_categories">Категории</string>
   <string name="all_kuwan_type">Все</string>
   <string name="allphone">Все модели</string>
   <string name="already_add_shopping_cart">Добавлено в корзину</string>
@@ -897,9 +897,9 @@
   <string name="order_express_list_empty">У вас нет заказов в пути</string>
   <string name="order_express_list_sn_label">Экспресс-доставка %s</string>
   <string name="order_express_sn_label">Трек：%s</string>
-  <string name="order_express_name_label">*Доставка：</string>
+  <string name="order_express_name_label">Доставка：</string>
   <string name="order_express_name_label1">Компания：%s</string>
-  <string name="order_express_sn_label">Трек-номер：</string>
+  <string name="order_express_sn_label">Трек：</string>
   <string name="order_express_title">О доставке</string>
   <string name="order_fee">Общая сумма：</string>
   <string name="order_fee_subtotal_text">Сумма заказа：%1$s元  Скидки：%2$s元  Стоимость доставки：%3$s元</string>
@@ -907,8 +907,8 @@
   <string name="order_information">Информация о заказе</string>
   <string name="order_invoice_download">*скачать</string>
   <string name="order_invoice_info">Информация о заказе：</string>
-  <string name="order_invoice_information">**Тип счёта：</string>
-  <string name="order_invoice_title">*Тип счёта：</string>
+  <string name="order_invoice_information">*Тип счёта：</string>
+  <string name="order_invoice_title">Тип счёта：</string>
   <string name="order_invoice_type_name">Накладные：</string>
   <string name="order_list_empty">У Вас нет заказов этого типа</string>
   <string name="order_list_express_empty">У вас нет посылок в пути</string>
@@ -973,7 +973,7 @@
   <string name="order_view_address_label">Адрес：</string>
   <string name="order_view_address_time">%1$s</string>
   <string name="order_view_address_time_label">Доставка в：</string>
-  <string name="order_view_address_title">Доставка в：</string>
+  <string name="order_view_address_title">Адрес：</string>
   <string name="order_view_fee">Сумма：</string>
   <string name="order_view_fee_2line">"Сумма：%s元"</string>
   <string name="order_view_id">№ заказа：</string>
