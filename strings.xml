@@ -336,9 +336,7 @@
   <string name="elec_invoice_tips">"Налоговые органы признают документы в электронном виде действующими в качестве кассовых/товарных* чеков. После выставления электронного счёта его нельзя будет обменять на бумажные накладные. При необходимости отчитаться о расходах, выбирите обычную счёт-фактуру"</string>
   <string name="elec_invoice_tips2">Подробнее</string>
   <string name="email_already_be_used">Е-mail зарегистрирован</string>
-  <string name="email_reg_success_summary">"Е-mail связанный с аккаунтом：
-%1$s
-- он используется для входа в Mi Аккаунт и восстановления пароля"</string>
+  <string name="email_reg_success_summary">"Е-mail связанный с аккаунтом：%1$s - он используется для входа в Mi Аккаунт и восстановления пароля"</string>
   <string name="empty_product">Дождитесь загрузки изображения...</string>
   <string name="eng_code_error_not_installed">CODE_ERR_NOT_INSTALLED</string>
   <string name="eng_code_error_not_login">CODE_ERR_NOT_LOGIN</string>
@@ -383,10 +381,7 @@
   <string name="fcode_change">Обновить</string>
   <string name="fcode_select_err">Ошибка</string>
   <string name="fcode_submit">Отправить</string>
-  <string name="fcode_text">"У кого может быть F-код?
-Мы выдаем F-код для опытных пользователей форума：
-1.Модераторам MIUI форума, консультантам, участникам группы ресурсы и пр.
-2.Группам на английском форуме MIUI тестерам, разработчикам и т.д."</string>
+  <string name="fcode_text">"У кого может быть F-код? Мы выдаем F-код для опытных пользователей форума：1.Модераторам MIUI форума, консультантам, участникам группы ресурсы и пр. 2.Группам на английском форуме MIUI тестерам, разработчикам и т.д."</string>
   <string name="fcode_title">F-код для покупки</string>
   <string name="fcode_vcode_err">Проверочный код введен неверно, введите повторно</string>
   <string name="fcode_vcode_fetch_err">Получить код не удалось, повторите попытку позже</string>
@@ -1189,9 +1184,7 @@
   <string name="reg_failed">Регистрация не удалась</string>
   <string name="reg_sms_send_prompt">已发送一条带验证码的短信至 %s</string>
   <string name="reg_success">注册成功</string>
-  <string name="reg_success_summary">"您的小米帐户密保手机是
- %1$s
-用于登录和找回密码"</string>
+  <string name="reg_success_summary">"您的小米帐户密保手机是 %1$s 用于登录和找回密码"</string>
   <string name="reg_type_email">Регистрация по е-mail</string>
   <string name="reg_type_phone">Регистрация по номеру телефона (рекомендуется)</string>
   <string name="reg_using_other_phone_number_prompt">您注册的手机号为</string>
@@ -1350,8 +1343,7 @@
   <string name="shake_history_item_desc">Спец.цена：%1$s元\u0009Обычная*：%2$s元</string>
   <string name="shake_loading">Загружаем...</string>
   <string name="shake_month">%1$s月</string>
-  <string name="shake_my_empty">"暂时没有摇中奖品
-您参与过%1$s次，不如%2$s人勤奋，再接再厉。"</string>
+  <string name="shake_my_empty">"暂时没有摇中奖品您参与过%1$s次，不如%2$s人勤奋，再接再厉。"</string>
   <string name="shake_my_title">Я</string>
   <string name="shake_no_login">摇一摇前，请先登录</string>
   <string name="shake_no_more">Сегодня шансов нет, приходите завтра</string>
