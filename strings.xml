@@ -900,7 +900,7 @@
   <string name="order_information">Информация о заказе</string>
   <string name="order_invoice_download">*скачать</string>
   <string name="order_invoice_info">Информация о заказе：</string>
-  <string name="order_invoice_information">*Тип счёта：</string>
+  <string name="order_invoice_information">Тип счёта：</string>
   <string name="order_invoice_title">Тип счёта：</string>
   <string name="order_invoice_type_name">Накладные：</string>
   <string name="order_list_empty">У Вас нет заказов этого типа</string>
