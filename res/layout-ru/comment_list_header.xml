@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="30.0dip" android:layout_marginBottom="30.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/comment_list_header_summarylayout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="190.0dip">
+        <ImageView android:id="@id/img" android:background="@drawable/default_cart_product" android:layout_width="120.0dip" android:layout_height="120.0dip" android:layout_marginRight="30.0dip" />
+        <LinearLayout android:orientation="vertical" android:layout_width="300.0dip" android:layout_height="wrap_content">
+            <TextView android:textSize="@dimen/text_level1" android:textColor="@color/text_black" android:id="@id/name" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip">
+                <TextView android:textSize="@dimen/text_level1" android:textColor="@color/orange" android:id="@id/price" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                <TextView android:textSize="@dimen/text_account_level1" android:textColor="@color/orange" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginRight="20.0dip" android:text="@string/yuan" />
+                <TextView android:textSize="@dimen/text_ordinary" android:textColor="@color/grey9" android:id="@id/marketPrice" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip">
+                <include android:id="@id/ratebar" layout="@layout/ratebar" />
+                <TextView android:textSize="@dimen/text_ordinary" android:textColor="@color/grey9" android:id="@id/commentInfo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" />
+            </LinearLayout>
+        </LinearLayout>
+        <View android:background="#ffd9d9d9" android:layout_width="1.0px" android:layout_height="fill_parent" android:layout_marginTop="25.0dip" android:layout_marginBottom="25.0dip" />
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="27.5dip" android:layout_marginRight="20.0dip" android:layout_marginBottom="27.5dip">
+            <com.xiaomi.shop.widget.TagRowLayout android:id="@id/comment_list_header_taglayout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerVertical="true" app:tagVerticalSpacing="15.0dip" app:tagHorizontalSpacing="10.0dip"
+              xmlns:app="http://schemas.android.com/apk/res/com.xiaomi.padshop" />
+        </RelativeLayout>
+    </LinearLayout>
+    <View android:layout_gravity="center_vertical" android:id="@id/comment_list_header_dividerline" android:background="#ffd9d9d9" android:layout_width="fill_parent" android:layout_height="0.75px" android:layout_below="@id/comment_list_header_summarylayout" />
+    <RadioGroup android:orientation="horizontal" android:id="@id/comment_list_header_radiogroup" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_below="@id/comment_list_header_dividerline" android:layout_alignParentRight="true">
+        <RadioButton android:textSize="@dimen/mini_text_size_link" android:textColor="@color/comment_list_header_radiobtn_color" android:id="@id/comment_list_header_sorttype_useful" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="10.0dip" android:button="@android:color/transparent" android:text="Полезные" />
+        <View android:layout_gravity="center_vertical" android:background="#ffd9d9d9" android:layout_width="1.0px" android:layout_height="20.0dip" android:layout_marginTop="3.0dip" android:layout_marginBottom="3.0dip" />
+        <RadioButton android:textSize="@dimen/mini_text_size_link" android:textColor="@color/comment_list_header_radiobtn_color" android:id="@id/comment_list_header_sorttype_latest" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="10.0dip" android:button="@android:color/transparent" android:text="Новые" />
+    </RadioGroup>
+</RelativeLayout>
