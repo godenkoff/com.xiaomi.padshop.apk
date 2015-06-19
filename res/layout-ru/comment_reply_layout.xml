@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="#fff3f3f3" android:layout_width="fill_parent" android:layout_height="100.0dip" android:minHeight="100.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:background="#ffdedede" android:layout_width="fill_parent" android:layout_height="1.5px" />
+    <RelativeLayout android:padding="27.0dip" android:layout_width="fill_parent" android:layout_height="100.0dip" android:minHeight="100.0dip">
+        <EditText android:id="@id/comment_reply_layout_edittext" android:background="@drawable/bg_comment_detail_edittext" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginRight="27.0dip" android:minHeight="40.0dip" android:layout_toLeftOf="@id/comment_reply_layout_submit_btn" android:layout_centerVertical="true" android:imeOptions="flagNoExtractUi" />
+        <Button android:textColor="@color/color_comment_detail_reply_btn" android:id="@id/comment_reply_layout_submit_btn" android:background="@drawable/selector_comment_detail_reply_btn" android:layout_width="130.0dip" android:layout_height="40.0dip" android:text="Отправить" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    </RelativeLayout>
+</RelativeLayout>
