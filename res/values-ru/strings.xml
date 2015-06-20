@@ -760,7 +760,7 @@
      <string name="payment_success">Оплата успешно завершена</string>
      <string name="payment_view_pickup_person_text">Получатель：</string>
      <string name="percent_sign">%</string>
-     <string name="person"> чел.</string>
+     <string name="person">\u0009чел.</string>
      <string name="phone_error_prompt">请输入正确的手机号码</string>
      <string name="phone_number_default">Операторы: China Mobile, Unicom, Telecom</string>
      <string name="photo_lib_can_not_select_any_more">Можно выбрать до %d фотографий</string>
